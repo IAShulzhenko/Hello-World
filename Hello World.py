@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Ver 1.1")
+print("Ver 1.0")
